@@ -17,7 +17,7 @@
 <br/>
 <br/>
   
-Hi, I'm Sudesh Sakthivel, a Android Developer from Bangalore, India. I currently work at [Smallcase](https://www.smallcase.com/) on a financial tool called [Tickertape](https://www.tickertape.in/) which is used for analysis of Indian stock market. Beside's programming, I enjoy playing online games and explore the evolving tech space. Feel free to shoot a [mail](mailto:sudeshim3@gmail.com) if you need any help or want to discuss about anything.
+Hi, I'm Sudesh Sakthivel, a Android Developer from Bangalore, India. I am currently work at a Fintech startup[Smallcase](https://www.smallcase.com/) on a app called [Tickertape](https://www.tickertape.in/). The app is used for analysis of Indian stock market. I love coding, but when I don't feel like I play online games and explore the evolving tech space. Feel free to shoot a [mail](mailto:sudeshim3@gmail.com) if you need any help or want to discuss about anything.
 <h3> About this repo </h3>
 
 [![my repo health](https://github-readme-stats.vercel.app/api?username=sudeshim3&hide=["stars"]&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshim3)](https://github.com/anuraghazra/github-readme-stats)
