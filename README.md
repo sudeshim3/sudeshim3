@@ -1,16 +1,25 @@
-### Hi there 👋
+<h2>Hi fellow developers, I'm Sudesh sakthivel <img align="end" src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="50"></h2>
+<a href="https://twitter.com/sudeshim3">
+<img align="left" alt="Sudesh sakthivel| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-<!--
-**sudeshim3/sudeshim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sudesh-sakthivel-0a3965122">
+<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>  
+<br/>
+<br/>
+  
+Hi, I'm Sudesh Sakthivel, a Android Developer from Bangalore, India. I currently work at [Smallcase](https://www.smallcase.com/) on a financial tool called [Tickertape](https://www.tickertape.in/) which is used for analysis of Indian stock market. Beside's programming, I enjoy playing online games and explore the evolving tech space. Ask me about anything and I am there to help. Feel free to shoot a [mail](mailto:sudeshim3@gmail.com) if you need any help or want to discuss about anything.
+<h3> About this repo </h3>
 
-Here are some ideas to get you started:
+[![my repo health](https://github-readme-stats.vercel.app/api?username=sudeshim3&hide=["stars"]&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudeshim3)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Projects </h3>
+<h2>
+<a href="https://github.com/sudeshim3/animated_carousel">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudeshim3&repo=animated_carousel" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sudeshim3&repo=StackDevs" />
+</a>
+  </h2>
